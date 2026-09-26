@@ -1,4 +1,4 @@
-# Installing Ubuntu Linux on a Virtual Machine
+# Ubuntu Linux and VirtualBox Installation Guide
 This lab is a structured guide for installing and setting up Ubuntu Linux on a VirtualBox virtual machine.  
 <br>
 
