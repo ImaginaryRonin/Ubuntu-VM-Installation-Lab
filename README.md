@@ -1,5 +1,5 @@
 # Ubuntu Linux and VirtualBox Installation Guide
-This lab is a structured guide for installing and setting up Ubuntu Linux on a VirtualBox virtual machine.  
+Build a custom Ubuntu virtual machine in VirtualBox for your future projects and labs. Learn how to install and update Linux, configure hardware and network settings, add useful VM integration features, and create a working environment ready for future networking, scripting, and administration work.
 <br>
 
 ## Before You Begin
